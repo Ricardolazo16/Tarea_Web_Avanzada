@@ -1,4 +1,4 @@
-# (No tiene nombre aun)
+# resapi-asp.net-core-jwt-middleweare
 
 Esta api res realiza un secillo crud de usuarios y cursos, ademas tambien cuenta con un end-point para la gestion de inicios de sesion y un end-point para ver todos los nombres de los cursos que se encuentran registrados en la base de datos.
 
